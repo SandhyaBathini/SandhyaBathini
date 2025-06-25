@@ -1,16 +1,15 @@
-## Hi there 👋
+ 👋 Hi, I'm Sandhya Bathini!
+🎓 3rd Year CSE Student | 💻 Java + Python Developer | 🔬 ML & AI Enthusiast
 
-<!--
-**SandhyaBathini/SandhyaBathini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- 🦴 Bone X-ray Classification (Deep Learning)
+## 💡 Skills
+Java | Python | Data Structures | MySQL  | Machine Learning
 
-Here are some ideas to get you started:
+## 🛠 Coding Profiles
+- [LeetCode](https://leetcode.com/Sandhya_Bathini)
+- [HackerRank](https://www.hackerrank.com/Sandhya Bathini)
+- [GitHub](https://github.com/sandhyabathini)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+-https://www.linkedin.com/in/sandhya-bathini
