@@ -2,7 +2,10 @@
 🎓 3rd Year CSE Student | 💻 Java + Python Developer | 🔬 ML & AI Enthusiast
 
 ## 🚀 Projects
-- 🦴 Bone X-ray Classification (Deep Learning)
+- Fake URL Detection
+- Stirling PDF
+- Bone X-ray Classification (Deep Learning)
+- Many Hands-on Projects during Internships
 ## 💡 Skills
 Java | Python | Data Structures | MySQL  | Machine Learning
 
